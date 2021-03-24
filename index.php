@@ -128,40 +128,40 @@ if (!empty($_SERVER['PATH_INFO'])) {
                     <p class="text-align:justify;">2) La seconde partie est un mini-blog qui permet de publier des articles pour par exemple parler de ses recherches ou pour raconter la vie de ses ancêtres. Les articles peut-être triés par catégories, et les visiteurs peuvent laisser des commentaires.</p>
 
                     <h3>Environement de développement</h3>
-                        <ul>
-                            <li>Laragon 4.0.16</li>
-                            <li>Apache 2.4.35</li>
-                            <li>phpMyAdmin 4.8.5</li>
-                            <li>Windows 10</li>
-                            <li>Eclipse IDE for PHP Developers 2020-06 (4.16.0)</li>
-                        </ul>
+                        <p>
+                            - Laragon 4.0.16<br />
+                            - Apache 2.4.35<br />
+                            - phpMyAdmin 4.8.5<br />
+                            - Windows 10<br />
+                            - Eclipse IDE for PHP Developers 2020-06 (4.16.0)<br />
+                        </p>
 
                     <h3>Langages utilisés</h3>
-                        <ul>
-                            <li>HTML</li>
-                            <li>CSS</li>
-                            <li>PHP 7.2.19</li>
-                            <li>SQL (via MySQL 5.7.24)</li>
-                            <li>Javascript</li>
-                            <li>Framework</li>
-                            <li>Bootstrap 4.4.1</li>
-                        </ul>
+                        <p>
+                            - HTML<br />
+                            - CSS<br />
+                            - PHP 7.2.19<br />
+                            - SQL (via MySQL 5.7.24)<br />
+                            - Javascript<br />
+                            - Framework<br />
+                            - Bootstrap 4.4.1<br />
+                        </p>
 
                     <h3>Librairies PHP</h3>
-                        Obtenues via https://packagist.org et Composer 2
-                        <ul>
-                            <li>PHPMailer/PHPMailer 6.3.0</li>
-                            <li>egulias/EmailValidator 2.1.25</li>
-                            <li>mpdf/mpdf 7.1.9</li>
-                        </ul>
+                        <p>
+                        (Obtenues via Packagist et Composer 2)<br /><br />
+                            - PHPMailer/PHPMailer 6.3.0<br />
+                            - egulias/EmailValidator 2.1.25<br />
+                            - mpdf/mpdf 7.1.9<br />
+                        </p>
 
                     <h3>Javascript (dont tinyMCE et JavaScript)</h3>
-                        <ul>
-                            <li>Datatables 1.10.23</li>
-                            <li>Leaflet 1.7.1 https://leafletjs.com/download.html</li>
-                            <li>tinyMCE 5.1.5 https://www.tiny.cloud/get-tiny/self-hosted/</li>
-                            <li>Dropzone 5.7.0 https://gitlab.com/meno/dropzone</li>
-                        </ul>
+                        <p>
+                            - <a href="https://datatables.net/">Datatables 1.10.23</a></br/>
+                            - <a href="https://leafletjs.com/download.html">Leaflet 1.7.1</a></br/>
+                            - <a href="https://www.tiny.cloud/get-tiny/self-hosted/">tinyMCE 5.1.5</a></br/>
+                            - <a href="https://gitlab.com/meno/dropzone">Dropzone 5.7.0</a></br/>
+                        </p>
 
 		  </div>
 		  <!-- fin du content -->
