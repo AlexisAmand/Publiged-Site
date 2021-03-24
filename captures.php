@@ -142,67 +142,79 @@ if (!empty($_SERVER['PATH_INFO'])) {
                 	<h3>Le site généré</h3>
                 
                     <figure>
-                    <a href="images/grandes/capture07.jpg" id="single_image" title="La partie blog de PubliGED">
-                    <img src="images/capture07.jpg" alt="capture d'écran de la partie blog du CMS réalisé en PHP/SQL dédié à la généalogie PubliGED"></a> 
-                    <figcaption>La partie blog</figcaption>
+                        <a href="images/grandes/capture07.png" id="single_image" title="La partie blog de PubliGED">
+                        <img src="images/capture07.png" alt="capture d'écran de la partie blog du CMS réalisé en PHP/SQL dédié à la généalogie PubliGED"></a> 
+                        <figcaption>La partie blog</figcaption>
                     </figure>
                     
                     <figure>
-                    <a href="images/grandes/capture05.jpg" id="single_image" title="Une fiche individuelle affichée avec PubliGED">
-                    <img src="images/capture05.jpg" alt="Une fiche individuelle du CMS réalisé en PHP/SQL dédié à la généalogie PubliGED"></a>  
-                    <figcaption>Une fiche individuelle</figcaption>
+                        <a href="images/grandes/capture05.png" id="single_image" title="Une fiche individuelle affichée avec PubliGED">
+                        <img src="images/capture05.png" alt="Une fiche individuelle du CMS réalisé en PHP/SQL dédié à la généalogie PubliGED"></a>  
+                        <figcaption>Une fiche individuelle</figcaption>
                     </figure>
                     
                     <figure>
-                    <a href="images/grandes/capture02.jpg" id="single_image" title="La liste des patronymes affichée avec PubliGED">
-                    <img src="images/capture02.jpg" alt="La liste des patronymes affichée avec le CMS réalisé en PHP/SQL dédié à la généalogie PubliGED"></a> 
-                    <figcaption>Liste des patronymes</figcaption>
+                        <a href="images/grandes/capture02.png" id="single_image" title="La liste des patronymes affichée avec PubliGED">
+                        <img src="images/capture02.png" alt="La liste des patronymes affichée avec le CMS réalisé en PHP/SQL dédié à la généalogie PubliGED"></a> 
+                        <figcaption>Liste des patronymes</figcaption>
                     </figure>
 
                     <figure>
-                    <a href="images/grandes/capture03.jpg" id="single_image" title="La liste éclair affichée avec PubliGED">
-                    <img src="images/capture03.jpg" alt="La liste éclair affichée avec le CMS réalisé en PHP/SQL dédié à la généalogie PubliGED"></a>  
-                    <figcaption>Liste éclair</figcaption>
+                        <a href="images/grandes/capture03.png" id="single_image" title="La liste éclair affichée avec PubliGED">
+                        <img src="images/capture03.png" alt="La liste éclair affichée avec le CMS réalisé en PHP/SQL dédié à la généalogie PubliGED"></a>  
+                        <figcaption>Liste éclair</figcaption>
                     </figure>
               
                     <figure>
-                    <a href="images/grandes/capture06.jpg" id="single_image" title="Les statistiques affichés avec PubliGED">
-                    <img src="images/capture06.jpg" alt="Les statistiques affichée avec le CMS réalisé en PHP/SQL dédié à la généalogie PubliGED"></a>  
-                    <figcaption>Statistiques</figcaption>
+                        <a href="images/grandes/capture06.png" id="single_image" title="Les statistiques affichés avec PubliGED">
+                        <img src="images/capture06.png" alt="Les statistiques affichée avec le CMS réalisé en PHP/SQL dédié à la généalogie PubliGED"></a>  
+                        <figcaption>Statistiques</figcaption>
                     </figure>
                     
                     <figure>    
-                    <a href="images/grandes/capture08.jpg" id="single_image" title="La liste des sources affichée avec PubliGED">
-                    <img src="images/capture08.jpg" alt="La liste des sources affichée avec le CMS réalisé en PHP/SQL dédié à la généalogie PubliGED"></a>  
-                    <figcaption>Liste des sources</figcaption>
+                        <a href="images/grandes/capture08.png" id="single_image" title="La liste des sources affichée avec PubliGED">
+                        <img src="images/capture08.png" alt="La liste des sources affichée avec le CMS réalisé en PHP/SQL dédié à la généalogie PubliGED"></a>  
+                        <figcaption>Liste des sources</figcaption>
                     </figure>  
                                                           
                     <figure>    
-                    <a href="images/grandes/capture04.jpg" id="single_image" title="La répartition géographique avec OpenStreetMap">
-                    <img src="images/capture04.jpg" alt="capture d'écran de la répartition géographique affichée avec le CMS réalisé en PHP/SQL dédié à la généalogie PubliGED"></a>  
-                    <figcaption>Répartition géographique</figcaption>
+                        <a href="images/grandes/capture04.png" id="single_image" title="La répartition géographique avec OpenStreetMap">
+                        <img src="images/capture04.png" alt="capture d'écran de la répartition géographique affichée avec le CMS réalisé en PHP/SQL dédié à la généalogie PubliGED"></a>  
+                        <figcaption>Répartition géographique</figcaption>
                     </figure>    
                     
 			        <div style="clear:both;"></div>
                                       
-                	<h3>L'espace d'administration</h3>                    
+                	<h3>L'espace d'administration</h3>
+
+                    <figure>    
+                        <a href="images/grandes/adm-capture04.png" id="single_image" title="Administrez le site perso que vous avez créé avec PubliGED">
+                        <img src="images/adm-capture04.png" alt=" "></a>  
+                        <figcaption>Accueil de l'administration</figcaption>
+                    </figure>                      
                                                         
                     <figure>    
-                    <a href="images/grandes/adm-capture03.jpg" id="single_image" title=" ">
-                    <img src="images/adm-capture03.jpg" alt=" "></a>  
-                    <figcaption>Publication d'un Gedcom</figcaption>
+                        <a href="images/grandes/adm-capture03.png" id="single_image" title="Administrez le site perso que vous avez créé avec PubliGED">
+                        <img src="images/adm-capture03.png" alt=" "></a>  
+                        <figcaption>Publication d'un Gedcom</figcaption>
                     </figure>
                     
                     <figure>    
-                    <a href="images/grandes/adm-capture02.jpg" id="single_image" title=" ">
-                    <img src="images/adm-capture02.jpg" alt=" "></a>  
-                    <figcaption>Gestion des articles du blog</figcaption>
+                        <a href="images/grandes/adm-capture02.png" id="single_image" title="Administrez le site perso que vous avez créé avec PubliGED">
+                        <img src="images/adm-capture02.png" alt=" "></a>  
+                        <figcaption>Gestion des articles du blog</figcaption>
                     </figure>  
                     
                     <figure>    
-                    <a href="images/grandes/adm-capture01.jpg" id="single_image" title=" ">
-                    <img src="images/adm-capture01.jpg" alt=" "></a>  
-                    <figcaption>Personnalisation des modules du menu</figcaption>
+                        <a href="images/grandes/adm-capture01.png" id="single_image" title="Administrez le site perso que vous avez créé avec PubliGED">
+                        <img src="images/adm-capture01.png" alt=" "></a>  
+                        <figcaption>Personnalisation des modules du menu</figcaption>
+                    </figure>  
+
+                    <figure>    
+                        <a href="images/grandes/adm-capture05.png" id="single_image" title="Administrez le site perso que vous avez créé avec PubliGED">
+                        <img src="images/adm-capture05.png" alt=" "></a>  
+                        <figcaption>Les options</figcaption>
                     </figure>  
                     
 		  </div>

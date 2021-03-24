@@ -108,12 +108,13 @@ if (!empty($_SERVER['PATH_INFO'])) {
                 <h2>Les contributeurs</h2>
                 
                 <ul>
+					<li>Alain B. (77)</li>
+					<li>Dominique G. (62)</li>
                     <li>Patrick A. (69)</li>
-                    <li>Alain B. (77)</li>
-                </ul>    
-                
+					<li>Thierry S. (51)</li>
+                </ul>
 
-		  </div>
+		  	</div>
 		  <!-- fin du content -->
 
 	      <?php include('include/footer.inc'); ?>

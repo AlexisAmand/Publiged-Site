@@ -143,9 +143,7 @@ if (!empty($_SERVER['PATH_INFO'])) {
                     <li>Version anglaise</li>
                     <li>Anniversaires du jour</li>
                     <li>Mes ancêtres / numérotation de sosa</li>
-                    
                     <li>Recherche d'un individu à l'aide d'un mot clé</li>
-                  
                     <li>Ajouter manuellement des références individuelles</li>
                     <li>Lier un article et un individu</li>
                     <li>Des lignes de vie, des lignes de temps</li>

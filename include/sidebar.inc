@@ -36,6 +36,8 @@
 
   <ul>
 	<li><a href="https://www.facebook.com/Publiged/">Le projet sur Facebook</a></li>
+	<li><a href="https://github.com/AlexisAmand/PubliGED">Le projet sur GitHub</a></li>
+	<li><a href="https://twitter.com/hashtag/PubliGED?src=hashtag_click&f=live">Le projet sur Twitter</a></li>
   </ul>
 
 </div>

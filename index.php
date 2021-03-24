@@ -117,38 +117,52 @@ if (!empty($_SERVER['PATH_INFO'])) {
                 
 			        <h3>Qu’est ce que PubliGED ?</h3>
 
-                        <p>PubliGED est ce que j’appelle un GMS (Genealogy Management System) par analogie avec les CMS, comme Joomla, WordPress ou Spip. Développé essentiellement en PHP et SQL, avec quelques gouttes de CSS et de HTML, PubliGED a pour but de permettre aux généalogistes de publier facilement et rapidement leurs généalogies en utilisant le gedcom, un format de fichier commun à la plupart des logiciels de généalogie.</p>
+                    <p class="text-align:justify;">PubliGED est ce que j’appelle un GMS (Genealogy Management System) par analogie avec les CMS, comme Joomla, WordPress ou Spip. Développé essentiellement en PHP et SQL, avec quelques gouttes de CSS et de HTML, PubliGED a pour but de permettre aux généalogistes de publier facilement et rapidement leurs généalogies en utilisant le gedcom, un format de fichier commun à la plupart des logiciels de généalogie.</p>
 
-                        <p>PubliGED a deux grandes fonctionnalités :</p> 
+                    <p class="text-align:justify;">Si vous êtes curieux, j'ai mis le code souce en ligne, mais pour l'instant, j'aimerai éviter que d'autres personnes contribuent au projet pour le moment, j'ai un peu peur que ça parte dans tous les sens. Cependant, n'hésitez pas à me soumettre vos idées et vos suggestions, voire même à consulter les sources à titre pédagogique.</p>
 
-                        <ul>
-                            <li>Une partie concerne la transformation du gedcom en pages web qui permettent de consulter facilement la base d’ancêtres: fiches individuelles, listes éclairs, répartition géographique, listes de patronymes, etc.</li>
+                    <p class="text-align:justify;">PubliGED a deux grandes fonctionnalités :</p> 
+
+                    <p class="text-align:justify;">1) Une partie concerne la transformation du gedcom en pages web qui permettent de consulter facilement la base d’ancêtres: fiches individuelles, listes éclairs, répartition géographique, listes de patronymes, etc.</p>
                             
-                            <li>La seconde partie est un mini-blog qui permet de publier des articles pour par exemple parler de ses recherches ou pour raconter la vie de ses ancêtres. Les articles peut-être triés par catégories, et les visiteurs peuvent laisser des commentaires.</li>
-                        </ul>
+                    <p class="text-align:justify;">2) La seconde partie est un mini-blog qui permet de publier des articles pour par exemple parler de ses recherches ou pour raconter la vie de ses ancêtres. Les articles peut-être triés par catégories, et les visiteurs peuvent laisser des commentaires.</p>
 
-                        <h3>Environement de développement</h3>
-
+                    <h3>Environement de développement</h3>
                         <ul>
-                            <li>Wampserver 3.0.6 64 bits</li>
-                            <li>Apache 2.4.23</li>
-                            <li>PHP 5.6.25</li>
-                            <li>MySQL 5.6.17</li>
-                            <li>Windows 7</li>
-                            <li>Eclipse for PHP Developers version Oxygen.2 Release (4.7.2)</li>
+                            <li>Laragon 4.0.16</li>
+                            <li>Apache 2.4.35</li>
+                            <li>phpMyAdmin 4.8.5</li>
+                            <li>Windows 10</li>
+                            <li>Eclipse IDE for PHP Developers 2020-06 (4.16.0)</li>
                         </ul>
 
-                        <h3>Langages utilisés</h3>
-
+                    <h3>Langages utilisés</h3>
                         <ul>
                             <li>HTML</li>
                             <li>CSS</li>
-                            <li>PHP</li>
-                            <li>API Google Map</li>
-                            <li>SQL (pour les bases de données)</li>
+                            <li>PHP 7.2.19</li>
+                            <li>SQL (via MySQL 5.7.24)</li>
                             <li>Javascript</li>
+                            <li>Framework</li>
+                            <li>Bootstrap 4.4.1</li>
                         </ul>
-                                              
+
+                    <h3>Librairies PHP</h3>
+                        Obtenues via https://packagist.org et Composer 2
+                        <ul>
+                            <li>PHPMailer/PHPMailer 6.3.0</li>
+                            <li>egulias/EmailValidator 2.1.25</li>
+                            <li>mpdf/mpdf 7.1.9</li>
+                        </ul>
+
+                    <h3>Javascript (dont tinyMCE et JavaScript)</h3>
+                        <ul>
+                            <li>Datatables 1.10.23</li>
+                            <li>Leaflet 1.7.1 https://leafletjs.com/download.html</li>
+                            <li>tinyMCE 5.1.5 https://www.tiny.cloud/get-tiny/self-hosted/</li>
+                            <li>Dropzone 5.7.0 https://gitlab.com/meno/dropzone</li>
+                        </ul>
+
 		  </div>
 		  <!-- fin du content -->
 
