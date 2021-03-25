@@ -117,15 +117,16 @@ if (!empty($_SERVER['PATH_INFO'])) {
                 
 			        <h3>Qu’est ce que PubliGED ?</h3>
 
-                    <p style="text-align:justify">PubliGED est ce que j’appelle un GMS (Genealogy Management System) par analogie avec les CMS, comme Joomla, WordPress ou Spip. Développé essentiellement en PHP et SQL, avec quelques gouttes de CSS et de HTML, PubliGED a pour but de permettre aux généalogistes de publier facilement et rapidement leurs généalogies en utilisant le gedcom, un format de fichier commun à la plupart des logiciels de généalogie.
+                    <p style="text-align:justify">PubliGED est ce que j’appelle un GMS (Genealogy Management System) par analogie avec les CMS, comme Joomla, WordPress ou Spip. Développé essentiellement en PHP et SQL, avec quelques gouttes de CSS et de HTML, PubliGED a pour but de permettre aux généalogistes de publier facilement et rapidement leurs généalogies en utilisant le gedcom, un format de fichier commun à la plupart des logiciels de généalogie.</p>
 
-                    <p style="text-align:justify">Si vous êtes curieux, j'ai mis le code source en ligne, mais pour l'instant, j'aimerai éviter que d'autres personnes contribuent au projet pour le moment, j'ai un peu peur que ça parte dans tous les sens. Cependant, n'hésitez pas à me soumettre vos idées et vos suggestions, voire même à consulter les sources à titre pédagogique.
+                    <p style="text-align:justify">Si vous êtes curieux, j'ai mis le code source en ligne, mais pour l'instant, j'aimerai éviter que d'autres personnes contribuent au projet pour le moment, j'ai un peu peur que ça parte dans tous les sens. Cependant, n'hésitez pas à me soumettre vos idées et vos suggestions, voire même à consulter les sources à titre pédagogique.</p>
 
                     <p style="text-align:justify">PubliGED a deux grandes fonctionnalités :
 
-                    <p style="text-align:justify">1) Une partie concerne la transformation du gedcom en pages web qui permettent de consulter facilement la base d’ancêtres : fiches individuelles, listes éclairs, répartition géographique, listes de patronymes, etc.
+                    <p style="text-align:justify">1) Une partie concerne la transformation du gedcom en pages web qui permettent de consulter facilement la base d’ancêtres : fiches individuelles, listes éclairs, répartition géographique, listes de patronymes, etc.</p>
 
-                    <p style="text-align:justify">2) La seconde partie est un mini-blog qui permet de publier des articles pour par exemple parler de ses recherches ou pour raconter la vie de ses ancêtres. Les articles peut-être triés par catégorie, et les visiteurs peuvent laisser des commentaires.
+                    <p style="text-align:justify">2) La seconde partie est un mini-blog qui permet de publier des articles pour par exemple parler de ses recherches ou pour raconter la vie de ses ancêtres. Les articles peut-être triés par catégorie, et les visiteurs peuvent laisser des commentaires.</p>
+
 
                     <h3>Environnement de développement</h3>
                         <p>

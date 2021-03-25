@@ -7,7 +7,6 @@
 body {
 margin:0 auto;padding:0;background-image:url(../images/fond.jpg);background-color:#d2c6b5;background-attachment:fixed;margin-top:10px;font-family:'Varela Round',sans-serif;font-size:.8em;font-style:normal;font-weight:400;
 color:#231C10;
-
 }
 
 .Main {
@@ -29,17 +28,6 @@ position:relative;z-index:0;margin:0
 .Sheet {
 margin-top:-13px!important
 }
-
-/*
-div.Header {
-margin:0 auto;position:relative;z-index:0;width:924px;height:225px
-}
-
-div.Header-jpeg {
-position:absolute;z-index:-1;top:0;left:-3px;width:930px;height:225px;background-image:url(../images/Header.jpg);background-repeat:repeat-x;background-position:center center;-webkit-border-top-left-radius:22px;
--webkit-border-top-right-radius:22px;-moz-border-radius-topleft:22px;-moz-border-radius-topright:22px;border-top-left-radius:22px;border-top-right-radius:22px
-}
-*/
 
 .nav {
 position:relative;margin:0 auto;width:924px;height:29px;z-index:100
@@ -798,7 +786,7 @@ text-decoration:none
 
 #cadremenu ul li {
 padding:0 0 0 13px;
-background-image:url(../images/BlockContentBullets.png);
+background-image:url(../images/PostBullets.png);
 background-repeat:no-repeat;
 margin:.5em 0;
 line-height:1.2em
@@ -861,10 +849,7 @@ margin-right:10px
 
 #contenu p {
 text-align:justify;
-/*font-family:'Varela Round',sans-serif*/
-
 font-family: Helvetica, sans-serif;
-
 }
 
 #contenu img {
@@ -886,7 +871,8 @@ margin-left:15px
 color:#000;
 list-style-image:url(../images/puce.png);
 text-align:left;
-font-size:13px
+font-size:13px;
+font-family: Helvetica, sans-serif;
 }
 
 #contenu ul li a:link {
@@ -1148,52 +1134,6 @@ text-transform:inherit
 color:#000
 }
 
-/*
-.logo {
-display:block;
-position:absolute;
-left:10px;
-top:80px;
-width:461px
-}
-
-h1.logo-name {
-display:block;
-text-align:center
-}
-
-h1.logo-name,h1.logo-name a,h1.logo-name a:link,h1.logo-name a:visited,h1.logo-name a:hover {
-font-family:'Varela Round',sans-serif;
-font-size:38px;
-font-style:normal;
-font-weight:700;
-text-decoration:none;
-padding:0;
-margin:0;
-color:#E9F5FB!important
-}
-
-.logo-text {
-text-shadow:2px 2px 2px #aaa;
-text-decoration:none;
-text-transform:none;
-letter-spacing:0;
-word-spacing:0;
-line-height:1.2;
-text-align:center
-}
-
-.logo-text,.logo-text a {
-font-family:'Varela Round',sans-serif;
-font-size:19px;
-font-style:normal;
-font-weight:400;
-padding:0;
-margin:0;
-color:#E9F5FB!important
-}
-*/
-
 #cookie {
 height:30px;
 line-height:30px;
@@ -1236,12 +1176,6 @@ margin:7px
 clear:both
 }
 
-/*
-#menu-resp {
-display:none
-}
-*/
-
 #ariane {
 witdh:100%;
 height:20px;
@@ -1256,20 +1190,11 @@ border:0 solid #000
     border-collapse:collapse;
     width:80%;
     margin: 25px auto 25px auto;
-    
-    /*
-    margin-left:auto;
-    margin-right:auto;
-    margin-top:25px;
-    margin-bottom:25px;
-    */    
 }
 
 .tableau td
 {
-    border:1px solid #997843;
-    border-collapse:collapse;
-    padding:7px 7px 7px 7px;    
+    border:1px solid #997843;border-collapse:collapse;padding:7px 7px 7px 7px;    
 }
 
 .tableau thead
@@ -1277,27 +1202,13 @@ border:0 solid #000
     background-color:#dbbda3;
 }
 
-
-/* 
-
-div.Header {
-margin:0 auto;position:relative;z-index:0;width:924px;height:225px
-}
-
-div.Header-jpeg {
-position:absolute;z-index:-1;top:0;left:-3px;width:930px;height:225px;background-image:url(../images/Header.jpg);background-repeat:repeat-x;background-position:center center;-webkit-border-top-left-radius:22px;
--webkit-border-top-right-radius:22px;-moz-border-radius-topleft:22px;-moz-border-radius-topright:22px;border-top-left-radius:22px;border-top-right-radius:22px
-
-}
-*/
-
 /* nouveau header pour passage en responsive */
 
 header
 {
 	height:225px;
 	width:100%;
-	background-image:url(../images/Header.jpg);
+	background-image:url(../images/Header.jpg); 
 	background-repeat:repeat-x;
 	background-position:center center;
 	-webkit-border-top-left-radius:22px;
@@ -1306,14 +1217,14 @@ header
 	-moz-border-radius-topright:22px;
 	border-top-left-radius:22px;
 	border-top-right-radius:22px;
+
+	background-color:#dbbda3;
 }
 
 header hgroup
 {
 	
-	color:white;
-	width:50%;
-	padding-top:45px;
+	color:white;width:50%;padding-top:45px;
 }
 
 hgroup h1
@@ -1349,8 +1260,28 @@ hgroup h2
 /* champ de recherche Google*/
 
 #googlesearch
-{
-margin-top:20px;z-index:5;position:absolute;margin-left:690px;
-}
+	{
+	margin-top:20px;z-index:5;position:absolute;margin-left:690px;
+	}
+
+#resppillmenu
+	{
+	display:none;
+	}
+
+#navresp
+	{
+	display:none;
+	}
+
+figcaption
+	{
+	text-transform:uppercase;
+	text-align:center;
+	font-size:10px;
+	padding-bottom:25px;
+	padding-top:15px
+	}
+
 
 /* 1340 */
