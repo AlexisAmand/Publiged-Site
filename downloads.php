@@ -24,7 +24,7 @@ if (!empty($_SERVER['PATH_INFO'])) {
     </script>
 
 	<meta charset="utf-8">
-    <title>PubliGED | Publiez facilement votre généalogie | Télécharger PubliGED</title>
+    <title>Télécharger PubliGED | Créer facilement votre blog ou votre site de généalogie</title>
 	<meta name="description" content="Comment télécharger le CMS Publiged ?"/>
 	
     <script type="text/javascript" src="js/script.js"></script>
@@ -109,10 +109,9 @@ if (!empty($_SERVER['PATH_INFO'])) {
 
                 <p>PubliGED n'est pas encore disponible en téléchargement.</p> 
                 
-                <p>En attendant, je vous invite à parcourir le site pour découvrir les futures fonctionnalités. Si vous avez une idée ou une remarque, n'hésitez pas à me contacter via Facebook ou via Twitter.</p>
-                
+                <p>En attendant, je vous invite à parcourir le site pour découvrir les futures fonctionnalités. Si vous avez une idée ou une remarque, n'hésitez pas à me contacter via <a href="https://www.facebook.com/Publiged/">Facebook</a> ou via <a href="https://twitter.com/hashtag/PubliGED?src=hashtag_click&f=live">Twitter</a>.</p>
 
-		  </div>
+		    </div>
 		  <!-- fin du content -->
 
 	      <?php include('include/footer.inc'); ?>

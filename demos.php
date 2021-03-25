@@ -25,7 +25,7 @@ if (!empty($_SERVER['PATH_INFO'])) {
 
 
 	<meta charset="utf-8">
-    <title>PubliGED | Publiez facilement votre généalogie | La Démo de PubliGED</title>
+    <title>Démonstration de PubliGED | Créer facilement votre blog ou votre site de généalogie</title>
 	<meta name="description" content=""/>
 	
     <script type="text/javascript" src="js/script.js"></script>

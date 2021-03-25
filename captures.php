@@ -25,7 +25,7 @@ if (!empty($_SERVER['PATH_INFO'])) {
 	
 
 	<meta charset="utf-8">
-    <title>PubliGED | Publiez facilement votre généalogie | Captures d'écran de PubliGED</title>
+    <title>Captures d'écran de PubliGED | Créer facilement votre blog ou votre site de généalogie</title>
 	<meta name="description" content="captures d'écran illustrant les principales fonctionnalités du logiciel de création de site PubliGED"/>
 	
     <script type="text/javascript" src="js/script.js"></script>
@@ -189,31 +189,31 @@ if (!empty($_SERVER['PATH_INFO'])) {
 
                     <figure>    
                         <a href="images/grandes/adm-capture04.png" id="single_image" title="Administrez le site perso que vous avez créé avec PubliGED">
-                        <img src="images/adm-capture04.png" alt=" "></a>  
+                        <img src="images/adm-capture04.png" alt="Capture d'écran de la page de PubliGED permettant de gérer son site"></a>  
                         <figcaption>Accueil de l'administration</figcaption>
                     </figure>                      
                                                         
                     <figure>    
                         <a href="images/grandes/adm-capture03.png" id="single_image" title="Administrez le site perso que vous avez créé avec PubliGED">
-                        <img src="images/adm-capture03.png" alt=" "></a>  
+                        <img src="images/adm-capture03.png" alt="Capture d'écran de la page de PubliGED permettant du publier un Gedcom"></a>  
                         <figcaption>Publication d'un Gedcom</figcaption>
                     </figure>
                     
                     <figure>    
                         <a href="images/grandes/adm-capture02.png" id="single_image" title="Administrez le site perso que vous avez créé avec PubliGED">
-                        <img src="images/adm-capture02.png" alt=" "></a>  
+                        <img src="images/adm-capture02.png" alt="Capture d'écran de la page de PubliGED permettant de gérer les articles"></a>  
                         <figcaption>Gestion des articles du blog</figcaption>
                     </figure>  
                     
                     <figure>    
                         <a href="images/grandes/adm-capture01.png" id="single_image" title="Administrez le site perso que vous avez créé avec PubliGED">
-                        <img src="images/adm-capture01.png" alt=" "></a>  
+                        <img src="images/adm-capture01.png" alt="Capture d'écran de la page de PubliGED permettant de personnaliser les menus"></a>  
                         <figcaption>Personnalisation des modules du menu</figcaption>
                     </figure>  
 
                     <figure>    
                         <a href="images/grandes/adm-capture05.png" id="single_image" title="Administrez le site perso que vous avez créé avec PubliGED">
-                        <img src="images/adm-capture05.png" alt=" "></a>  
+                        <img src="images/adm-capture05.png" alt="Capture d'écran de la page de PubliGED permettant de gérer les options de PubliGED"></a>  
                         <figcaption>Les options</figcaption>
                     </figure>  
                     

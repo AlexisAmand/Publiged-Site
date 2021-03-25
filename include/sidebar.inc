@@ -5,7 +5,7 @@
 <div id="cadremenu">
 
 <h1 style="background-image:url(images/all.png);background-repeat:no-repeat;padding-left:28px;background-position:left center;">Aider le projet</h1>
-<p style="text-align:justify;">PubliGED est sur Tipeee, le premier site français de tip participatif. Cliquez sur l'image rouge ci-dessous pour en savoir plus.</p>
+<p style="text-align:justify;">PubliGED est sur Tipeee, le premier site français de tip participatif. Il vous permet de soutenir le projet avec un don ou juste en regardant une petite vidéo.</p>
 <p style="text-align:center;"><a href="https://www.tipeee.com/genealexis"><img src="images/tipeee.png" width="140px"></a></p>
 
 </div>

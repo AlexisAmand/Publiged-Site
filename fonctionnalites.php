@@ -24,7 +24,7 @@ if (!empty($_SERVER['PATH_INFO'])) {
     </script>
 
 	<meta charset="utf-8">
-    <title>PubliGED | Publiez facilement votre généalogie | Les fonctionnalites de PubliGED</title>
+    <title>Les fonctionnalités de PubliGED | Publiez facilement votre généalogie | Créer facilement votre blog ou votre site de généalogie</title>
 	<meta name="description" content="Les principales fonctionnalités de PubliGED, systéme de publication de contenu dédié à la généalogie"/>
 	
     <script type="text/javascript" src="js/script.js"></script>
@@ -106,53 +106,63 @@ if (!empty($_SERVER['PATH_INFO'])) {
             <div id="contenu">
 
                 <h2>Les fonctionnalités</h2>
-                
-                <h3>Partie « généalogie »</h3>
 
-                <ul>
-                    <li>Liste des patronymes : affichage des patronymes par ordre alphabétique</li> 
-                    <li>Liste des individus : affichage de la liste des individus par ordre alphabétique</li> 
-                    <li>Liste éclair : répartition des patronymes selon les lieux et les dates</li>
-                    <li>Liste des événements:liste des événements vécus par les individus de la base de données</li>
-                    <li>Liste des lieux : Répartition géographique des individus sur une carte du monde</li>
-                    <li>L'API de Google Map est remplacée par Open Street Map</li>
-                    <li>Fiches individuelles</li>
-                    <li>Statistiques</li>
-                    <li>Personnalisation de l'ordre des modules du menu latéral</li>
-                    <li>Liste des sources</li> 
-                    
-                </ul>
+                    <h3>Partie « généalogie »</h3>
 
-                <h3>Partie « blog »</h3>
+                    <p>
+                    - Liste des patronymes : affichage des patronymes par ordre alphabétique<br />
+                    - Liste des individus : affichage de la liste des individus par ordre alphabétique<br />
+                    - Liste éclair : répartition des patronymes selon les lieux et les dates<br />
+                    - Liste des événements :liste des événements vécus par les individus de la base de données<br />
+                    - Liste des lieux : répartition géographique des individus sur une carte du monde<br />
+                    - L'API de Google Map est remplacée par Open Street Map<br />
+                    - Fiches individuelles<br />
+                    - Statistiques<br />
+                    - Personnalisation de l'ordre des modules du menu latéral<br />
+                    - Liste des sources<br />
+                    </p>
 
-                <ul>
-                    <li>Personnalisation de l'ordre des modules du menu latéral</li> 
-                    <li>Interface WYSIWYG pour écrire vos articles</li>
-                    <li>Articles triés par catégories</li>
-                    <li>Affichage de la liste des articles d'une catégorie donnée</li>
-                    <li>Possibilité pour les utilisateurs de laisser un commentaire</li>
-                </ul>    
+                    <h3>Partie « blog »</h3>
 
-                <h3>Fonctionnalités en cours de développement ou en projet</h3>
+                    <p>
+                    - Personnalisation de l'ordre des modules du menu latéral<br />
+                    - Interface WYSIWYG pour écrire vos articles<br />
+                    - Articles triés par catégorie<br />
+                    - Affichage de la liste des articles d'une catégorie donnée<br />
+                    - Possibilité pour les utilisateurs de laisser un commentaire<br />
+                    </p>
 
-                <ul>
-                    
-                    <li>Modules de la partie « généalogie » personnalisables.</li>
-                    <li>Modules de la partie « blog » personnalisables.</li>
-                    <li>Liste des images</li>
-                    <li>Version anglaise</li>
-                    <li>Anniversaires du jour</li>
-                    <li>Mes ancêtres / numérotation de sosa</li>
-                    <li>Recherche d'un individu à l'aide d'un mot clé</li>
-                    <li>Ajouter manuellement des références individuelles</li>
-                    <li>Lier un article et un individu</li>
-                    <li>Des lignes de vie, des lignes de temps</li>
-                    <li>Des tableaux excel (recensements, relevés)</li>
-                    <li>Des albums photos (famille, monuments aux morts, ... )</li>
-                </ul>
-                
-                
-                
+                    <h3>Partie « administration »</h3>
+
+                    <p>
+                    - Création d'un article et/ou d'une catégorie<br />
+                    - Modération des commentaires<br />
+                    - Envoi et suppression d'un gedcom<br />
+                    - Modules de la partie « généalogie » personnalisables<br />
+                    - Modules de la partie « blog » personnalisables<br />
+                    - Suppression de la base de données<br />
+                    - Statistique sur la base de données<br />
+                    - Paramètres du site<br />
+                    - Choix d'un thème pour le site<br />
+                    - Personnalisation des métas et SEO<br />
+                    </p>
+
+                    <h3>Fonctionnalités en cours de développement ou en projet</h3>
+
+                    <p>
+                    - Ajouter/supprimer un utilisateur<br />
+                    - Listes les utilisateurs<br />
+                    - Liste des images<br />
+                    - Version anglaise<br />
+                    - Anniversaires du jour<br />
+                    - Mes ancêtres/numérotation de sosa<br />
+                    - Recherche d'un individu à l'aide d'un mot-clé<br />
+                    - Ajouter manuellement des références individuelles<br />
+                    - Lier un article et un individu<br />
+                    - Des lignes de vie, des lignes de temps<br />
+                    - Des tableaux Excel (recensements, relevés)<br />
+                    - Des albums photos (famille, monuments aux morts, ... )<br />
+                    </p>
 
 		  </div>
 		  <!-- fin du content -->
