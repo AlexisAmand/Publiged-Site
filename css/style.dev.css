@@ -1283,5 +1283,10 @@ figcaption
 	padding-top:15px
 	}
 
-
-/* 1340 */
+	#contenu figure {
+		border:0px solid black;width:270px;overflow: hidden;text-align:center;float:left;
+	}
+	
+	#contenu figure img {
+		width:260px;
+	}

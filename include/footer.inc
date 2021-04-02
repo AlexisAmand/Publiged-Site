@@ -11,8 +11,8 @@
 	</p>
 	
 	<p style="text-align:center;font-size:10px;">
-		&copy; 2016-2017 - Tous droits r&eacute;serv&eacute;s. Reproduction interdite sans autorisation.<br/>
-		Site r&eacute;alis&eacute; par <a href="http://www.boitasite.com" title="Création de sites">Alexis AMAND</a>	
+		&copy; 2009-2021 - Tous droits r&eacute;serv&eacute;s. Reproduction interdite sans autorisation.<br/>
+		Site r&eacute;alis&eacute; par <a href="http://www.boitasite.com" title="Création et référencement de sites web">Alexis AMAND</a>	
 	<br/>			
 	</p>
 			
@@ -32,7 +32,6 @@
 </script>
 <!-- End Piwik Code -->
 
-
 <!-- Piwik -->
 <script type="text/javascript">
   var _paq = _paq || [];
@@ -49,10 +48,5 @@
 </script>
 <noscript><p><img src="//www.genealexis.fr/piwik/piwik.php?idsite=10" style="border:0;" alt="" /></p></noscript>
 <!-- End Piwik Code -->
-
-
-<!-- Piwik Image Tracker -->
-<img src="http://www.genealexis.fr/piwik/piwik.php?idsite=1&amp;rec=1" style="border:0" alt="" />
-<!-- End Piwik -->
  
 </div>

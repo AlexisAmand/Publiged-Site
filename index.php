@@ -27,8 +27,6 @@ if (!empty($_SERVER['PATH_INFO'])) {
     <title>Présentation de PubliGED | Créer facilement votre blog ou votre site de généalogie</title>
 	<meta name="description" content="PubliGED est un logiciel développé en PHP et SQL qui permet de publier facilement sa généalogie sur internet en créant un site web dynamique et un blog"/>
 	
-    <script type="text/javascript" src="js/script.js"></script>
-
     <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
     <!--[if IE 6]><link rel="stylesheet" href="../cartes-postales/style/style.ie6.css" type="text/css" media="screen" /><![endif]-->
     <link href='http://fonts.googleapis.com/css?family=Short+Stack' rel='stylesheet' type='text/css'>
@@ -40,43 +38,8 @@ if (!empty($_SERVER['PATH_INFO'])) {
     <script type="text/javascript" src="js/jquery.min.js"></script>
     <script type="text/javascript" src="js/jquery.fancybox-1.3.4.pack.js"></script>
     <link rel="stylesheet" href="js/jquery.fancybox-1.3.4.css" type="text/css" media="screen" />
-    
-    <script type="text/javascript">
-    
-    $(document).ready(function() {
-
-	/* This is basic - uses default settings */
-	
-	$("a#single_image").fancybox();
-	
-	/* Using custom settings */
-	
-	$("a#inline").fancybox({
-		'hideOnContentClick': true
-	});
-
-	/* Apply fancybox to multiple items */
-	
-	$("a.group").fancybox({
-		'transitionIn'	:	'elastic',
-		'transitionOut'	:	'elastic',
-		'speedIn'		:	600, 
-		'speedOut'		:	200, 
-		'overlayShow'	:	false
-	});
-	
-});
-</script>
-    
+ 
 <!-- fin zoom avec jquery-->
-
-<style>
-
-#contenu figure img {
-    border:0px solid black;width:270px;text-align:center;
-}
-
-</style>
 
 </head>
 
