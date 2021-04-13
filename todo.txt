@@ -1,11 +1,11 @@
-- taille des captures d'écran
 - ancre # et id qui doivent être un peu plus SEO -> attention CSS
-- faire le ménage des comm' inutiles dans le codegit 
 - faire relecture orthographe
-- favicon perso 
+- faire le ménage des comm' inutiles dans le code
 
 captures
 --------
+
+- taille des captures d'écran
 
 - peut-être une couleur pour la section "capture d'écran" 
         -> marron clair comme sur l'accueil ?

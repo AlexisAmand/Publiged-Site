@@ -146,22 +146,6 @@
                         En attendant, n'hésitez pas à nous suivre sur <a href="https://twitter.com/alexisamand">Twitter</a>, <a href="https://www.linkedin.com/in/alexis-amand-99775817/">LinkedIn</a> ou <a href="https://www.facebook.com/alexisamand">Facebook</a>.
                         </p>
                     </div>
-                    <!--
-                    <div class="col-lg-3 col-md-6 text-center">
-                        <div class="mt-5">
-                            <i class="fas fa-4x fa-globe text-primary mb-4"></i>
-                            <h3 class="h4 mb-2">Ready to Publish</h3>
-                            <p class="text-muted mb-0">You can use this design as is, or you can make changes!</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 text-center">
-                        <div class="mt-5">
-                            <i class="fas fa-4x fa-heart text-primary mb-4"></i>
-                            <h3 class="h4 mb-2">Made with Love</h3>
-                            <p class="text-muted mb-0">Is it really open source if it's not made with love?</p>
-                        </div>
-                    </div>
-                    -->
                 </div>
             </div>
         </section>
@@ -285,9 +269,6 @@
             <!-- Call to action-->
             <section class="page-section bg-dark text-white">
                 <div class="container text-center">
-
-                  
-
                     <h2 class="mb-4">Téléchargement</h2>
                     <p class="text-white muted my-4">PubliGED n'est pas encore disponible en téléchargement.<br/>(Les liens ci-dessous sont donc inactifs)</p> 
                     <div class="row">
@@ -306,9 +287,6 @@
                             </div>
                         </div>
                     </div>
-
-       
-
                 </div>
             </section>
         </div>
