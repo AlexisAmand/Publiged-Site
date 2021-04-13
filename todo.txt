@@ -1,0 +1,19 @@
+- taille des captures d'écran
+- ancre # et id qui doivent être un peu plus SEO -> attention CSS
+- mettre le zip du template dans un dossier d'archive et l'envoyer sur Github
+- faire le ménage des comm' inutiles dans le codegit 
+- faire relecture orthographe
+- il y a des img qui ne servent pas dans asset
+- code piwik
+
+captures
+--------
+
+- peut-être une couleur pour la section "capture d'écran" 
+        -> marron clair comme sur l'accueil ?
+
+        -> inverser le fond de "téléchargement" et le fond de "captures" ?
+        -> du coup, il faut inverser les 2 rubriques car "contact" doit rester blanc ?
+
+- il faut refaire les captures, car il y a une bande blanche moche de chaque côté
+- ajouter un mx-3 pour qu'il y ait une marge à droite et à gauche ?
