@@ -1,6 +1,5 @@
 - taille des captures d'écran
 - ancre # et id qui doivent être un peu plus SEO -> attention CSS
-- mettre le zip du template dans un dossier d'archive et l'envoyer sur Github
 - faire le ménage des comm' inutiles dans le codegit 
 - faire relecture orthographe
 - code piwik
