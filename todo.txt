@@ -3,8 +3,8 @@
 - mettre le zip du template dans un dossier d'archive et l'envoyer sur Github
 - faire le ménage des comm' inutiles dans le codegit 
 - faire relecture orthographe
-- il y a des img qui ne servent pas dans asset
 - code piwik
+- favicon perso 
 
 captures
 --------
