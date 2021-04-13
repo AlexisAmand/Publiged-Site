@@ -2,7 +2,6 @@
 - ancre # et id qui doivent être un peu plus SEO -> attention CSS
 - faire le ménage des comm' inutiles dans le codegit 
 - faire relecture orthographe
-- code piwik
 - favicon perso 
 
 captures
