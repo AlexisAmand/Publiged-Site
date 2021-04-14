@@ -83,8 +83,9 @@
                             - Géolocalisation<br />
                             - Fiches individuelles<br />
                             - Statistiques<br />
+                            - Formulaire de contact<br />
                             - Liste des sources
-
+                
                         </p>
 
                         <h4 class="text-white mt-0">Administration</h4>
@@ -123,13 +124,15 @@
                             - Lignes de vie<br />
                             - Lignes de temps<br />
                             - Tableaux Excel<br />
-                            - Albums photos
-
+                            - Blogroll des sites préférés<br />
+                            - Albums photos<br />
+                            - Liste des patronymes par lieu<br />
+                            - Module social
                         </p>
 
                         </div></div> <!-- div des cols -->
 
-                        <a class="btn btn-light btn-xl js-scroll-trigger" href="#services" title="voir des captures d'écran de PubliGED">Voir des captures d'écran !</a>
+                        <a class="btn btn-light btn-xl js-scroll-trigger" href="#services" title="voir des captures d'écran de PubliGED">Voir des captures d'écran</a>
                     </div>
                 </div>
             </div>
@@ -143,7 +146,7 @@
                     <div class="col-12 text-center">
                         <p class="text-muted mb-0">
                         PubliGED n'est pas encore disponible en test.<br />
-                        En attendant, n'hésitez pas à suivre le projet sur <a href="https://twitter.com/alexisamand">Twitter</a>, <a href="https://www.linkedin.com/in/alexis-amand-99775817/">LinkedIn</a> ou <a href="https://www.facebook.com/alexisamand">Facebook</a>.
+                        En attendant, n'hésitez pas à suivre le projet sur <a href="https://twitter.com/alexisamand" title="voir le compte Twitter du webmaster">Twitter</a>, <a href="https://www.linkedin.com/in/alexis-amand-99775817/" title="voir le compte LinkedIn du webmaster">LinkedIn</a> ou <a href="https://www.facebook.com/alexisamand" title="Voir le compte Facebook du webmaster">Facebook</a>.
                         </p>
                     </div>
                 </div>
@@ -261,7 +264,10 @@
             <section class="page-section bg-dark text-white">
                 <div class="container text-center">
                     <h2 class="mb-4">Téléchargement</h2>
-                    <p class="text-white muted my-4">PubliGED n'est pas encore disponible en téléchargement.<br/>(Les liens ci-dessous sont donc inactifs)</p> 
+                    <p class="text-white muted my-4">
+                        PubliGED n'est pas encore disponible en téléchargement.<br/>
+                        En attendant, n'hésitez pas à suivre le projet sur <a href="#contact">les réseaux</a> et/ou à <a href="https://fr.tipeee.com/genealexis" title="Page Tipeee de PubliGED">le soutenir</a> !<br />
+                        (Les liens ci-dessous sont donc inactifs)</p>
                     <div class="row">
                         <div class="col-lg-6 col-md-6 text-center">
                             <div class="mt-5">
@@ -288,28 +294,34 @@
                     <div class="col-lg-8 text-center">
                         <h2 class="mt-0">Restons en contact !</h2>
                         <hr class="divider my-4" />
-                        <p class="text-muted mb-5">Prêt à démarrer votre prochain site ? <br />Envoyez-moi un messsage et je vous répondrai dans les plus brefs délais !</p>
+                        <p class="text-muted mb-5">
+                            Prêt à démarrer votre prochain site de généalogie ? <br />
+                            Envoyez-moi un messsage et je vous répondrai dans les plus brefs délais !</p>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-4 ml-auto text-center mb-5 mb-lg-0">
+                    <div class="col-lg-3 ml-auto text-center mb-5 mb-lg-0">
                         <i class="fab fa-twitter fa-3x mb-3 text-muted"></i>
-                        <a class="d-block" href="https://twitter.com/alexisamand">@alexisamand</a>
+                        <a class="d-block" href="https://twitter.com/alexisamand" title="Voir le compte Twitter du webmaster">@alexisamand</a>
                     </div>
-                    <div class="col-lg-4 ml-auto text-center mb-5 mb-lg-0">
+                    <div class="col-lg-3 ml-auto text-center mb-5 mb-lg-0">
                         <i class="fab fa-facebook fa-3x mb-3 text-muted"></i>
-                        <a class="d-block" href="https://www.facebook.com/alexisamand">@alexisamand</a>
+                        <a class="d-block" href="https://www.facebook.com/alexisamand" title="voir le compte Facebook du webmaster">@alexisamand</a>
                     </div>
-                    <div class="col-lg-4 mr-auto text-center">
+                    <div class="col-lg-3 mr-auto text-center">
+                        <i class="fab fa-linkedin fa-3x mb-3 text-muted"></i>
+                        <a class="d-block" href="https://www.linkedin.com/in/alexis-amand-99775817/" title="Voir le compte LinkedIn du Webmaster">@alexisamand</a>
+                    </div>
+                    <div class="col-lg-3 mr-auto text-center">
                         <i class="fas fa-envelope fa-3x mb-3 text-muted"></i>
-                        <a class="d-block" href="mailto:alexis.amand@gmail.com">alexis.amand@gmail.com</a>
+                        <a class="d-block" href="mailto:alexis.amand@gmail.com" title="Envoyer un mail au Webmaster">alexis.amand@gmail.com</a>
                     </div>
                 </div>
             </div>
         </section>
         <!-- Footer-->
         <footer class="bg-light py-5">
-            <div class="container"><div class="small text-center text-muted">Copyright © 2020 - <a href="https://www.boitasite.com">Boitasite</a></div></div>
+            <div class="container"><div class="small text-center text-muted">Copyright © 2020 - §Site propulsé sur le net par <a href="https://www.boitasite.com">Boitasite</a></div></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>

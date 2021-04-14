@@ -1,3 +1,4 @@
 - ancre # et id qui doivent être un peu plus SEO -> attention CSS
 - faire relecture orthographe
 - style externe ^^
+- ajouter linked in
