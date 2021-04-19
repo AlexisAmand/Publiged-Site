@@ -219,7 +219,7 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-sm-6 my-3" style="padding-right: 6px;padding-left: 6px;">
-                        <a class="portfolio-box" href="images/grandes/1.png">
+                        <a class="portfolio-box" href="images/grandes/capture01.png">
                             <img class="img-fluid" src="images/grandes/capture01.png" alt="Capture d'écran d'un blog créé avec le CMS PubliGED" />
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Le blog</div>

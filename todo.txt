@@ -5,3 +5,8 @@
 - lien vers la page FB de PubliGED
 - cookies
 - mentions légales
+- redimensionner les miniatures
+- envoyer sitemap chez Google Search Console
+
+
+-> migration chez Boitasite pour avoir le https
