@@ -1,12 +1,20 @@
-- ancre # et id qui doivent être un peu plus SEO -> attention CSS
+- ancre # et id qui doivent être un peu plus SEO -> attention 
+
 - faire relecture orthographe
+
 - style externe ^^
+
 - compression fichier js ?
-- lien vers la page FB de PubliGED
+
+- lien vers la page FB de PubliGED 
+https://www.facebook.com/publiged
+
 - cookies
 - mentions légales
-- redimensionner les miniatures
+
 - envoyer sitemap chez Google Search Console
 
+- image png -> jpg
+- redimensionner les miniatures
 
 -> migration chez Boitasite pour avoir le https
