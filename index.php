@@ -112,7 +112,7 @@
 
                         <p class="text-white-50 mb-4 text-left">
 
-                            - Gestion des utilisateur<br />
+                            - Gestion des utilisateurs<br />
                             - Liste des images<br />
                             - Version anglaise<br />
                             - Anniversaires du jour<br />
