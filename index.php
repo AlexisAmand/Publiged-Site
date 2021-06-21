@@ -305,7 +305,7 @@
                         <hr class="divider my-4" />
                         <p class="text-muted mb-5">
                             Prêt à démarrer votre prochain site de généalogie ? <br />
-                            Envoyez-moi un messsage et je vous répondrai dans les plus brefs délais !</p>
+                            Envoyez-moi un message et je vous répondrai dans les plus brefs délais !</p>
                     </div>
                 </div>
                 <div class="row">
