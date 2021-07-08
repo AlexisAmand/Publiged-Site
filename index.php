@@ -276,7 +276,8 @@
                     <p class="text-white muted my-4">
                         PubliGED n'est pas encore disponible en téléchargement.<br/>
                         En attendant, n'hésitez pas à suivre le projet sur <a href="#contact">les réseaux</a> et/ou à <a href="https://fr.tipeee.com/genealexis" title="Page Tipeee de PubliGED">le soutenir</a> !<br />
-                        (Les liens ci-dessous sont donc inactifs)</p>
+                        (Les liens ci-dessous sont donc inactifs)<br />
+                        En attendant, le code est disponible sur <a href="https://github.com/AlexisAmand/PubliGED">GitHub</a>.</p>
                     <div class="row">
                         <div class="col-lg-6 col-md-6 text-center">
                             <div class="mt-5">
