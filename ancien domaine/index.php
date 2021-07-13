@@ -1,3 +1,9 @@
+<?php
+header("Status: 301 Moved Permanently", false, 301);
+header("Location: https://publiged.boitasite.com/index.php");
+exit();
+?>
+
 <!DOCTYPE html>
 <html lang="fr">
     <head>
@@ -17,7 +23,6 @@
         <link href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" rel="stylesheet" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
-        
     </head>
     <body id="page-top">
         <!-- Navigation-->
