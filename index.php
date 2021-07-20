@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="fr">
+
     <head>
+
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="PubliGED est un logiciel développé en PHP et SQL qui permet de publier facilement sa généalogie sur internet en créant un site web dynamique et un blog"/>
         <meta name="author" content="Alexis AMAND" />
-        <title>PubliGED | Créer facilement votre blog ou votre site de généalogie</title>
+        <title>Le Projet PubliGED | Créer facilement votre blog ou votre site de généalogie</title>
 
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/img/favicon.png" />
@@ -40,7 +42,9 @@
         <!-- End Matomo Code -->
 
     </head>
+
     <body id="page-top">
+
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
             <div class="container">
@@ -70,7 +74,7 @@
 
                     <div class="col-lg-9 align-self-baseline">
                         <p class="text-white-75 font-weight-light mb-5">PubliGED est un GMS qui a pour but de permettre aux généalogistes de publier facilement et rapidement leurs généalogies en utilisant le gedcom, un format de fichier commun à la plupart des logiciels de généalogie.</p>
-                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about" title="En savoir plus sur le CMS PubliGED">En savoir plus</a>
+                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about" title="En savoir plus sur les fonctionnalités du projet de CMS PubliGED">En savoir plus</a>
                     </div>
 
                 </div>
@@ -86,11 +90,9 @@
                         <hr class="divider light my-4" />
 
                         <div class="row">
-
                             <div class="col-12 mb-4">
                                 <p class="text-center text-white-50">PubliGED est un GMS (Genealogy Management System) par analogie avec les CMS, comme Joomla, WordPress ou Spip. Développé essentiellement en PHP et SQL, avec quelques gouttes de CSS et de HTML, il a pour but de permettre aux généalogistes de publier facilement et rapidement leurs généalogies en utilisant le gedcom, un format de fichier commun à la plupart des logiciels de généalogie. C'est un outil qui permet de créer un site sans pour autant avoir des compétences de ouf. D'une envergure plus modeste, PubliGED est constitué de trois parties : Blog, généalogie et administration.</p>
                             </div> 
-                        
                         </div>
                         
                         <div class="row">
@@ -166,7 +168,7 @@
                 <hr class="divider my-4" />
                 <div class="row">
                     <div class="col-12 text-center">
-                        <p class="text-muted mb-0">PubliGED n'est pas encore disponible en test.<br />En attendant, n'hésitez pas à suivre le projet sur <a href="https://twitter.com/alexisamand" title="voir le compte Twitter du webmaster">Twitter</a>, <a href="https://www.linkedin.com/in/alexis-amand-99775817/" title="voir le compte LinkedIn du webmaster">LinkedIn</a> ou <a href="https://www.facebook.com/alexisamand" title="Voir le compte Facebook du webmaster">Facebook</a>.</p>
+                        <p class="text-muted mb-0">PubliGED n'est pas encore disponible en test.<br />En attendant, n'hésitez pas à suivre le projet sur <a href="https://twitter.com/boitasite" title="Le compte Twitter du développeur de PubliGED">Twitter</a>, <a href="https://www.linkedin.com/in/alexis-amand-99775817/" title="Le compte LinkedIn du développeur de PubliGED">LinkedIn</a> ou <a href="https://www.facebook.com/alexisamand" title="Le page Facebook du projet PubliGED">Facebook</a>.</p>
                     </div>
                 </div>
             </div>
@@ -295,7 +297,7 @@
 
                     <div class="col-12">
                         <h2 class="mb-4">Téléchargement</h2>
-                        <p class="text-white my-4">PubliGED n'est pas encore disponible en téléchargement.<br/>En attendant, n'hésitez pas à suivre le projet sur <a href="#contact">les réseaux</a> et/ou à <a href="https://fr.tipeee.com/genealexis" title="Page Tipeee de PubliGED">le soutenir</a> !<br />(Les liens ci-dessous sont donc inactifs)<br />En attendant, le code est disponible sur <a href="https://github.com/AlexisAmand/PubliGED">GitHub</a>.</p>
+                        <p class="text-white my-4">PubliGED n'est pas encore disponible en téléchargement.<br/>En attendant, n'hésitez pas à suivre le projet sur <a href="#contact" title="Contacter le développeur du cms PubliGED">les réseaux</a> et/ou à <a href="https://fr.tipeee.com/genealexis" title="Page Tipeee du projet PubliGED">le soutenir</a> !<br />(Les liens ci-dessous sont donc inactifs)<br />En attendant, le code est disponible sur <a href="https://github.com/AlexisAmand/PubliGED" title="Code source de PubliGED mise en ligne sur GitHub">GitHub</a>.</p>
                     </div>
 
                     <div class="col-lg-6 col-md-6 text-center">
@@ -329,22 +331,22 @@
 
                     <div class="col-lg-3 mb-5 mb-lg-0 col-6">
                         <i class="fab fa-twitter fa-3x mb-3"></i>
-                        <a class="d-block" href="https://twitter.com/alexisamand" title="Voir le compte Twitter du webmaster">@alexisamand</a>
+                        <a class="d-block" href="https://twitter.com/boitasite" title="Le compte Twitter du développeur de PubliGED">@alexisamand</a>
                     </div>
 
                     <div class="col-lg-3 mb-5 mb-lg-0 col-6">
                         <i class="fab fa-facebook fa-3x mb-3"></i>
-                        <a class="d-block" href="https://www.facebook.com/alexisamand" title="voir le compte Facebook du webmaster">@alexisamand</a>
+                        <a class="d-block" href="https://www.facebook.com/alexisamand" title="La page Facebook de PubliGED">@alexisamand</a>
                     </div>
 
                     <div class="col-lg-3 mb-5 mb-lg-0 col-6">
                         <i class="fab fa-linkedin fa-3x mb-3"></i>
-                        <a class="d-block" href="https://www.linkedin.com/in/alexis-amand-99775817/" title="Voir le compte LinkedIn du Webmaster">@alexisamand</a>
+                        <a class="d-block" href="https://www.linkedin.com/in/alexis-amand-99775817/" title="Le compte LinkedIn du développeur de PubliGED">@alexisamand</a>
                     </div>
 
                     <div class="col-lg-3 mb-5 mb-lg-0 col-6">
-                        <i class="fas fa-envelope fa-3x mb-3"></i>
-                        <a class="d-block" href="https://github.com/AlexisAmand/PubliGED" title=" ">Via GitHub</a>
+                        <i class="fab fa-github"></i>
+                        <a class="d-block" href="https://github.com/AlexisAmand/PubliGED" title="Le code source de PubliGED sur GitHub">Via GitHub</a>
                     </div>
 
                 </div>
