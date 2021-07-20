@@ -177,8 +177,8 @@
             <div class="container-fluid p-0">
                 <div class="row no-gutters">
                     <div class="col-lg-3 col-sm-6 my-3" style="padding-right: 6px;padding-left: 6px;">
-                        <a class="portfolio-box" href="images/grandes/capture07.png">
-                            <img class="img-fluid img-thumbnail" src="images/grandes/capture07.png" alt="Capture d'écran d'un blog créé avec le CMS PubliGED"/>
+                        <a class="portfolio-box" href="images/grandes/capture07.jpg">
+                            <img class="img-fluid img-thumbnail" src="images/grandes/capture07.jpg" alt="Capture d'écran d'un blog créé avec le CMS PubliGED"/>
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Le blog</div>
                                 <div class="project-name">Quelques articles</div>
@@ -186,8 +186,8 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-sm-6 my-3" style="padding-right: 6px;padding-left: 6px;">
-                        <a class="portfolio-box" href="images/grandes/capture05.png">
-                            <img class="img-fluid img-thumbnail" src="images/grandes/capture05.png" alt="Capture d'écran d'une fiche individuelle générée par le CMS PubliGED" />
+                        <a class="portfolio-box" href="images/grandes/capture05.jpg">
+                            <img class="img-fluid img-thumbnail" src="images/grandes/capture05.jpg" alt="Capture d'écran d'une fiche individuelle générée par le CMS PubliGED" />
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">La généalogie</div>
                                 <div class="project-name">Fiche individuelle</div>
@@ -195,8 +195,8 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-sm-6 my-3" style="padding-right: 6px;padding-left: 6px;">
-                        <a class="portfolio-box" href="images/grandes/capture02.png">
-                            <img class="img-fluid img-thumbnail" src="images/grandes/capture02.png" alt="Capture d'écran de la liste de patronymes générée par le CMS PubliGED" />
+                        <a class="portfolio-box" href="images/grandes/capture02.jpg">
+                            <img class="img-fluid img-thumbnail" src="images/grandes/capture02.jpg" alt="Capture d'écran de la liste de patronymes générée par le CMS PubliGED" />
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">La généalogie</div>
                                 <div class="project-name">Liste des patronymes</div>
@@ -204,8 +204,8 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-sm-6 my-3" style="padding-right: 6px;padding-left: 6px;">
-                        <a class="portfolio-box" href="images/grandes/capture03.png">
-                            <img class="img-fluid img-thumbnail" src="images/grandes/capture03.png" alt="Capture d'écran d'une liste éclair générée par le CMS PubliGED" />
+                        <a class="portfolio-box" href="images/grandes/capture03.jpg">
+                            <img class="img-fluid img-thumbnail" src="images/grandes/capture03.jpg" alt="Capture d'écran d'une liste éclair générée par le CMS PubliGED" />
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">La généalogie</div>
                                 <div class="project-name">Liste éclair</div>
@@ -213,8 +213,8 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-sm-6 my-3" style="padding-right: 6px;padding-left: 6px;">
-                        <a class="portfolio-box" href="images/grandes/capture06.png">
-                            <img class="img-fluid img-thumbnail" src="images/grandes/capture06.png" alt="Capture d'écran des statistiques d'un arbre généalogique publié avec PubliGED" />
+                        <a class="portfolio-box" href="images/grandes/capture06.jpg">
+                            <img class="img-fluid img-thumbnail" src="images/grandes/capture06.jpg" alt="Capture d'écran des statistiques d'un arbre généalogique publié avec PubliGED" />
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">La généalogie</div>
                                 <div class="project-name">Les statistiques</div>
@@ -222,8 +222,8 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-sm-6 my-3" style="padding-right: 6px;padding-left: 6px;">
-                        <a class="portfolio-box" href="images/grandes/capture08.png">
-                            <img class="img-fluid img-thumbnail" src="images/grandes/capture08.png" alt="Capture d'écran de la présentation des sources" />
+                        <a class="portfolio-box" href="images/grandes/capture08.jpg">
+                            <img class="img-fluid img-thumbnail" src="images/grandes/capture08.jpg" alt="Capture d'écran de la présentation des sources" />
                             <div class="portfolio-box-caption p-3">
                                 <div class="project-category text-white-50">La généalogie</div>
                                 <div class="project-name">Les sources</div>
@@ -231,8 +231,8 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-sm-6 my-3" style="padding-right: 6px;padding-left: 6px;">
-                        <a class="portfolio-box" href="images/grandes/capture04.png">
-                            <img class="img-fluid img-thumbnail" src="images/grandes/capture04.png" alt="Répartition géographique des individus avec OpenStreetMap" />
+                        <a class="portfolio-box" href="images/grandes/capture04.jpg">
+                            <img class="img-fluid img-thumbnail" src="images/grandes/capture04.jpg" alt="Répartition géographique des individus avec OpenStreetMap" />
                             <div class="portfolio-box-caption p-3">
                                 <div class="project-category text-white-50">La généalogie</div>
                                 <div class="project-name">Répartition géographique</div>
@@ -240,8 +240,8 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-sm-6 my-3" style="padding-right: 6px;padding-left: 6px;">
-                        <a class="portfolio-box" href="images/grandes/capture01.png">
-                            <img class="img-fluid img-thumbnail" src="images/grandes/capture01.png" alt="Capture d'écran d'un blog créé avec le CMS PubliGED" />
+                        <a class="portfolio-box" href="images/grandes/capture01.jpg">
+                            <img class="img-fluid img-thumbnail" src="images/grandes/capture01.jpg" alt="Capture d'écran d'un blog créé avec le CMS PubliGED" />
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Le blog</div>
                                 <div class="project-name">Quelques articles</div>
@@ -249,8 +249,8 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-sm-6 my-3" style="padding-right: 6px;padding-left: 6px;">
-                        <a class="portfolio-box" href="images/grandes/adm-capture03.png">
-                            <img class="img-fluid img-thumbnail" src="images/grandes/adm-capture03.png" alt="Publier son Gedcom sur un site généré avec PubliGED" />
+                        <a class="portfolio-box" href="images/grandes/adm-capture03.jpg">
+                            <img class="img-fluid img-thumbnail" src="images/grandes/adm-capture03.jpg" alt="Publier son Gedcom sur un site généré avec PubliGED" />
                             <div class="portfolio-box-caption p-3">
                                 <div class="project-category text-white-50">L'administration</div>
                                 <div class="project-name">Encoyer un gedcom</div>
@@ -258,8 +258,8 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-sm-6 my-3" style="padding-right: 6px;padding-left: 6px;">
-                        <a class="portfolio-box" href="images/grandes/adm-capture02.png">
-                            <img class="img-fluid img-thumbnail" src="images/grandes/adm-capture02.png" alt="Modifier les articles de son blog généré avec PubliGED" />
+                        <a class="portfolio-box" href="images/grandes/adm-capture02.jpg">
+                            <img class="img-fluid img-thumbnail" src="images/grandes/adm-capture02.jpg" alt="Modifier les articles de son blog généré avec PubliGED" />
                             <div class="portfolio-box-caption p-3">
                                 <div class="project-category text-white-50">L'administration</div>
                                 <div class="project-name">Modifier les articles</div>
@@ -267,8 +267,8 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-sm-6 my-3" style="padding-right: 6px;padding-left: 6px;">
-                        <a class="portfolio-box" href="images/grandes/adm-capture01.png">
-                            <img class="img-fluid img-thumbnail" src="images/grandes/adm-capture01.png" alt="Gérer les modules de son site généré avec PubliGED" />
+                        <a class="portfolio-box" href="images/grandes/adm-capture01.jpg">
+                            <img class="img-fluid img-thumbnail" src="images/grandes/adm-capture01.jpg" alt="Gérer les modules de son site généré avec PubliGED" />
                             <div class="portfolio-box-caption p-3">
                                 <div class="project-category text-white-50">L'administration</div>
                                 <div class="project-name">Gérer les modules</div>
@@ -276,8 +276,8 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-sm-6 my-3" style="padding-right: 6px;padding-left: 6px;">
-                        <a class="portfolio-box" href="images/grandes/adm-capture04.png">
-                            <img class="img-fluid img-thumbnail" src="images/grandes/adm-capture04.png" alt="Page d'accueil du backoffice d'un site géré avec PubliGED" />
+                        <a class="portfolio-box" href="images/grandes/adm-capture04.jpg">
+                            <img class="img-fluid img-thumbnail" src="images/grandes/adm-capture04.jpg" alt="Page d'accueil du backoffice d'un site géré avec PubliGED" />
                             <div class="portfolio-box-caption p-3">
                                 <div class="project-category text-white-50">L'administration</div>
                                 <div class="project-name">Résumé de mon site</div>
