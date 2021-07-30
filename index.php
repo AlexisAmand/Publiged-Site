@@ -326,7 +326,8 @@
                     <div class="col-12">
                         <h2 class="mt-0">Restons en contact !</h2>
                         <hr class="divider my-4" />
-                        <p class="mb-5">Prêt à démarrer votre prochain site de généalogie ?<br />Envoyez-moi un message et je vous répondrai dans les plus brefs délais !</p>
+                        <p class="mb-5">Prêt à démarrer votre prochain site de généalogie ?<br />Envoyez-moi un message et je vous répondrai dans les plus brefs délais !<br /><a href="mailto:alexis.amand@gmail.com">alexis.amand@gmail.com</a></p>
+
                     </div>
 
                     <div class="col-lg-3 mb-5 mb-lg-0 col-6">
@@ -345,7 +346,7 @@
                     </div>
 
                     <div class="col-lg-3 mb-5 mb-lg-0 col-6">
-                        <i class="fab fa-github"></i>
+                        <i class="fab fa-github fa-3x mb-3"></i>
                         <a class="d-block" href="https://github.com/AlexisAmand/PubliGED" title="Le code source de PubliGED sur GitHub">Via GitHub</a>
                     </div>
 
