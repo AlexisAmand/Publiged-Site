@@ -332,12 +332,12 @@
 
                     <div class="col-lg-3 mb-5 mb-lg-0 col-6">
                         <i class="fab fa-twitter fa-3x mb-3"></i>
-                        <a class="d-block" href="https://twitter.com/boitasite" title="Le compte Twitter du développeur de PubliGED">@alexisamand</a>
+                        <a class="d-block" href="https://twitter.com/PubliGED" title="Le compte Twitter du développeur de PubliGED">@PubliGED</a>
                     </div>
 
                     <div class="col-lg-3 mb-5 mb-lg-0 col-6">
                         <i class="fab fa-facebook fa-3x mb-3"></i>
-                        <a class="d-block" href="https://www.facebook.com/alexisamand" title="La page Facebook de PubliGED">@alexisamand</a>
+                        <a class="d-block" href="https://www.facebook.com/Publiged" title="La page Facebook de PubliGED">@PubliGED</a>
                     </div>
 
                     <div class="col-lg-3 mb-5 mb-lg-0 col-6">
@@ -356,7 +356,7 @@
 
         <!-- Footer-->
         <footer class="bg-light py-5">
-            <div class="container"><div class="small text-center">Copyright © 2020<br />Site propulsé sur le net par <a href="https://www.boitasite.com">Boitasite</a></div></div>
+            <div class="container"><div class="small text-center">Copyright © 2021<br />Site propulsé sur le net par <a href="https://www.boitasite.com">Boitasite</a></div></div>
         </footer>
 
         <!-- Bootstrap core JS-->
