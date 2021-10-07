@@ -1,3 +1,9 @@
+<?php
+header("Status: 301 Moved Permanently", false, 301);
+header("Location: https://www.publiged.com/index.php");
+exit();
+?>
+
 <!DOCTYPE html>
 <html lang="fr">
 
@@ -8,8 +14,6 @@
         <meta name="description" content="PubliGED est un logiciel développé en PHP et SQL qui permet de publier facilement sa généalogie sur internet en créant un site web dynamique et un blog"/>
         <meta name="author" content="Alexis AMAND" />
         <title>Le Projet PubliGED | Créer facilement votre blog ou votre site de généalogie</title>
-        
-        <meta name="google-site-verification" content="H_S8bnmm0ye9jJOw50cljinljN8fU-xouc-MqzZ0Oak" />
 
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/img/favicon.png" />
